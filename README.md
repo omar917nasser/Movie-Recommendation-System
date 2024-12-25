@@ -30,34 +30,6 @@ The Movie Recommendation System delivers personalized movie suggestions tailored
 - **Key Libraries**: Pandas, NumPy, Scikit-learn, Joblib, TQDM
 - **Development Tools**: Jupyter Notebooks for data preparation and analysis
 
-These tools ensure efficient data handling and reliable recommendation performance.
-
-## Installation Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/movie-recommendation-system.git
-   cd movie-recommendation-system
-   ```
-
-2. Set up a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # Windows: venv\Scripts\activate
-   ```
-
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Place IMDb datasets in the `data/` folder and execute data preparation scripts in sequence.
-
-5. Start the program:
-   ```bash
-   python main.py
-   ```
-
 ## Usage
 
 1. **Start the Program**:
@@ -97,21 +69,9 @@ The `main.py` file serves as the core interface, enabling:
 - Generating recommendations based on watchlists or single movies.
 - Displaying detailed movie information.
 
-## Contributing
-
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit changes and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Profile]
+- **Email**: omarnasser4321234@gmail.com
 
 ## Acknowledgements
 
